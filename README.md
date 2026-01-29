@@ -6,7 +6,7 @@ Um projeto básico de **Lista de tarefas** utilizando HTML, CSS e JavaScript Com
 
 ##Demonstração
 
-Acesse meu Site: https://vitormorais-dev.github.io/To-Do-List-JavaScript/
+ ➡️➡️Acesse meu Site: https://vitormorais-dev.github.io/To-Do-List-JavaScript/
 
 - - - -
 
@@ -20,7 +20,7 @@ Acesse meu Site: https://vitormorais-dev.github.io/To-Do-List-JavaScript/
 
 - - - -
 
-##Tecnologias Utilizadas:
+## 🛠️Tecnologias Utilizadas:
 
 -HTML5
 
