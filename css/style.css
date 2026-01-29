@@ -1,0 +1,61 @@
+h1{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+main {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;   /* ISSO é o pulo do gato */
+}
+
+#task-container{
+    display:flex;
+    gap: 15px;
+    justify-content: center;
+}
+#task-input{
+    background-color: #f3efe3;
+}
+#add-button{
+    cursor:pointer;
+    background: transparent;
+    border-radius: 60px;
+}
+.dlt-button{
+    cursor: pointer;
+    background:transparent;
+    border-radius: 60px;
+}
+.dlt-button:hover{
+    background-color: red;
+}
+.task-checkbox{
+    background-color: blue;
+    accent-color: green;
+    cursor: pointer;
+}
+#task-list{
+    margin-left: 130px;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 15px
+}
+#task-list li{
+    display:flex;
+   align-items: center;
+    gap: 10px;
+}
+#task-text{
+    white-space: nowrap;
+
+}
+.done{
+    text-decoration: line-through;
+    opacity: 0.6 ;
+}
+body{
+    background-color: #f3efe3 ;
+    color: #222222;
+}
